@@ -8,3 +8,5 @@ tags: CXR, rad, chest
 - [[lung-anatomy]]
 
 - ![](attachments/2024-02-24-04-19-41.png)
+![](/attachments/2024-04-23-23-10-30.png)
+![](/attachments/2024-04-23-23-10-46.png)
