@@ -1,4 +1,6 @@
+# Colloid cyst
 -[[Neur]]
+
 # Overview
 - gradually increase in size over time
 - [Colloid Cyst Risk Score (CCRS) was proposed (c.2016) prognostic predictor](https://radiopaedia.org/articles/missing?article%5Btitle%5D=colloid-cyst-risk-score-ccrs&lang=us)
@@ -11,8 +13,8 @@
 > - calcification is uncommon 2
 
 > - no central enhancement, may have thin peripheral rim of enhancement which represents the cyst capsule
-# MRI
 
+# MRI
 > T1: variable
 > - ~50% high signal 
 > - the rest are hypointense or isointense to adjacent brain
